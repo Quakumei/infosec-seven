@@ -182,3 +182,4 @@ data/KDLinux
 
 # pngs, because you can use jpg
 *.png
+data/*

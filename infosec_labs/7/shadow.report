@@ -1,0 +1,20 @@
+
+File Report
+===============================================
+# date time file syscall success exe auid event
+===============================================
+1. 20.02.2025 04:39:11 /etc/ 44 yes /usr/sbin/auditctl 1000 413
+2. 20.02.2025 04:39:22 /etc/ 44 yes /usr/sbin/auditctl 1000 414
+3. 20.02.2025 04:40:16 /etc/passwd 257 yes /usr/sbin/useradd 1000 415
+4. 20.02.2025 04:40:16 /etc/group 257 yes /usr/sbin/useradd 1000 416
+5. 20.02.2025 04:40:16 /etc/shadow 257 yes /usr/sbin/useradd 1000 417
+6. 20.02.2025 04:40:16 /etc/ 82 yes /usr/sbin/useradd 1000 420
+7. 20.02.2025 04:40:16 /etc/ 82 yes /usr/sbin/useradd 1000 421
+8. 20.02.2025 04:40:16 /etc/ 82 yes /usr/sbin/useradd 1000 422
+9. 20.02.2025 04:40:33 /etc/group 257 yes /usr/sbin/groupadd 1000 423
+10. 20.02.2025 04:40:33 /etc/ 82 yes /usr/sbin/groupadd 1000 424
+11. 20.02.2025 04:40:43 /etc/passwd 257 yes /usr/sbin/usermod 1000 428
+12. 20.02.2025 04:40:43 /etc/shadow 257 yes /usr/sbin/usermod 1000 429
+13. 20.02.2025 04:40:43 /etc/group 257 yes /usr/sbin/usermod 1000 430
+14. 20.02.2025 04:40:43 /etc/ 82 yes /usr/sbin/usermod 1000 433
+15. 20.02.2025 04:40:59 /etc/ 82 yes /usr/bin/passwd 1000 434
