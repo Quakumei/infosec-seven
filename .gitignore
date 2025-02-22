@@ -178,8 +178,6 @@ cython_debug/
 
 # keylogger default output file
 log.txt
-data/KDLinux
 
 # pngs, because you can use jpg
 *.png
-data/*
