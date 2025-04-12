@@ -1,0 +1,24 @@
+Data: 'Genesis Block; Miner gets 100 BTC'
+Timestamp: 1744447983
+Nonce: 7641
+Hash: '000077c7ffd210c1d145a16cd6aa0b15209deddf084a5aae3d70a3cd097018c8'
+PrevHash: 'None'
+
+Data: 'Data 1; Miner gets 50 BTC'
+Timestamp: 1744447983
+Nonce: 57285
+Hash: '0000c1a287025502904fce31c6fbdc8d1887b6912b72de440d5456cdf8c16c4d'
+PrevHash: '000077c7ffd210c1d145a16cd6aa0b15209deddf084a5aae3d70a3cd097018c8'
+
+Data: 'Data 2; Miner gets 25 BTC'
+Timestamp: 1744447985
+Nonce: 41525
+Hash: '0000539f9b8981367d6903d123e9df2e6301b3016d8baa5e6f6871d2b6417703'
+PrevHash: '0000c1a287025502904fce31c6fbdc8d1887b6912b72de440d5456cdf8c16c4d'
+
+Data: 'Data 3; Miner gets 16 BTC'
+Timestamp: 1744447986
+Nonce: 16836
+Hash: '00006441d68f0a8a39540553f6ba7899a51ea9193a30f35f87631bf4276dff12'
+PrevHash: '0000539f9b8981367d6903d123e9df2e6301b3016d8baa5e6f6871d2b6417703'
+
